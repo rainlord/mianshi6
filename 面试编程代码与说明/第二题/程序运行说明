@@ -1,0 +1,6 @@
+说明：
+程序编译 cd build
+cmake ..
+make -j12
+
+vscode 打开，直接运行即可

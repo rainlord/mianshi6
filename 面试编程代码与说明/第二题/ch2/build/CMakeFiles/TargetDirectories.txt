@@ -1,0 +1,3 @@
+/home/rainlord/thread/ch2/build/CMakeFiles/rebuild_cache.dir
+/home/rainlord/thread/ch2/build/CMakeFiles/useHello1.dir
+/home/rainlord/thread/ch2/build/CMakeFiles/edit_cache.dir

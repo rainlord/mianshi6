@@ -1,0 +1,1 @@
+/usr/bin/c++ -std=c++11 -g -rdynamic CMakeFiles/useHello1.dir/useHello1.cpp.o -o useHello1  -lpthread 
